@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_gallery_image_zooms",
+  "info": {
+    "displayName": "Image Zoom"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+   // "altText": {
+     // "type": "string"
+    //}
+  }
+}

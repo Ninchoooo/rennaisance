@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_about_us_slide1s",
+  "info": {
+    "displayName": "Slide1"
+  },
+  "options": {},
+  "attributes": {
+    "titleBefore": {
+      "type": "string"
+    },
+    "titleSpan": {
+      "type": "string"
+    },
+    "titleAfter": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_about_us_slide2s",
+  "info": {
+    "displayName": "Slide2"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "text"
+    },
+    "contentLine": {
+      "type": "text"
+    }
+  }
+}

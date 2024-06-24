@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_home_elements_two_lines",
+  "info": {
+    "displayName": "Two Lines"
+  },
+  "options": {},
+  "attributes": {
+    "line1": {
+      "type": "string"
+    },
+    "line2": {
+      "type": "string"
+    }
+  }
+}

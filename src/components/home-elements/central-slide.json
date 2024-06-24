@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_home_elements_central_slides",
+  "info": {
+    "displayName": "Slide Type 3",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "imageBg": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button"
+    },
+    "textButton": {
+      "type": "string"
+    }
+  }
+}

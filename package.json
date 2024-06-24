@@ -1,0 +1,40 @@
+{
+  "name": "renaissance-hand-made-strapi",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "dependencies": {
+    "@strapi/plugin-cloud": "4.20.3",
+    "@strapi/plugin-i18n": "4.20.3",
+    "@strapi/plugin-users-permissions": "4.20.3",
+    "@strapi/provider-email-gmail-api": "npm:@bztes/strapi-provider-email-gmail-api@^4.0.3",
+    "@strapi/provider-upload-cloudinary": "^4.21.1",
+    "@strapi/strapi": "4.20.3",
+    "better-sqlite3": "8.6.0",
+    "pg": "^8.11.4",
+    "pg-connection-string": "^2.6.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "5.3.4",
+    "sendmail": "^1.6.1",
+    "strapi-provider-email-smtp": "^1.0.3",
+    "styled-components": "5.3.3"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "strapi": {
+    "uuid": "1be31d60-814b-47fa-beb6-16732730d1fb"
+  },
+  "engines": {
+    "node": "20.x",
+    "npm": "10.x"
+  },
+  "license": "MIT"
+}

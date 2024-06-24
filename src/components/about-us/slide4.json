@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_about_us_slide4s",
+  "info": {
+    "displayName": "slide4",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "info1": {
+      "displayName": "Info Element",
+      "type": "component",
+      "repeatable": false,
+      "component": "about-us.info-element"
+    },
+    "info2": {
+      "type": "component",
+      "repeatable": false,
+      "component": "about-us.info-element"
+    },
+    "info3": {
+      "type": "component",
+      "repeatable": false,
+      "component": "about-us.info-element"
+    }
+  }
+}

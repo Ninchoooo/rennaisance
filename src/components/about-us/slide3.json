@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_about_us_slide3s",
+  "info": {
+    "displayName": "slide3",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title1": {
+      "type": "string"
+    },
+    "title2": {
+      "type": "string"
+    },
+    "imageBackground": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

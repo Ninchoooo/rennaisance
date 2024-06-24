@@ -1,0 +1,45 @@
+{
+  "kind": "singleType",
+  "collectionName": "sketches_pages",
+  "info": {
+    "singularName": "sketches-page",
+    "pluralName": "sketches-pages",
+    "displayName": "Sketches Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "entryTitle": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
+    },
+    "entryContent": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "text"
+    },
+    "seo": {
+      "type": "component",
+      "repeatable": false,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "component": "metadata.seo"
+    }
+  }
+}
